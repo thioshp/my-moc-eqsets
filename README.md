@@ -1,7 +1,7 @@
 # my-moc-eqsets
 My set of moc (console music player) eqsets . For everyone who loves listening music using mocp.
 
-Instalation
+Installation
 ===========
 ```bash
 cd ~/.moc/
